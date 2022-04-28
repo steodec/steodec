@@ -21,6 +21,7 @@
 - 🌱 I’m currently learning Golang, PHP8 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+  [[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png|width=100px]]
 [![]([https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg | width=32px])](https://github.com/steodec?tab=repositories&q=&type=&language=php&sort=)
 <a href= https://github.com/steodec?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
 <a href= https://github.com/steodec?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
